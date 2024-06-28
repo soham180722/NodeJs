@@ -17,6 +17,8 @@ Admin Role: Admin can add,view,edit,delete 'Category','FAQs','Banner'.Admin can 
              
 User Role:  Users can add,view,edit,delete their own blog posts and Images.Users can change their profiles details, Image, Password.
 -------------------------------------------------
--Contact Page: Feedback mails are recieved and sent.  
-
+-Contact Page: Feedback mails are recieved and sent. 
+-------------------------------------------------
+-Commenta can be added to each BLOG post which can be later view by every registered and non-registered user.
+-------------------------------------------------
 All Inputs taken from Users are validated
