@@ -19,6 +19,6 @@ User Role:  Users can add,view,edit,delete their own blog posts and Images.Users
 -------------------------------------------------
 -Contact Page: Feedback mails are recieved and sent. 
 -------------------------------------------------
--Commenta can be added to each BLOG post which can be later view by every registered and non-registered user.
+-Comments can be added to each BLOG post which can be later view by every registered and non-registered user. Only a registered users can add comment to any post. A registered users can edit his/her own comment.
 -------------------------------------------------
 All Inputs taken from Users are validated
