@@ -1,4 +1,4 @@
-# NodeJs
+# NodeJs Projects
 Blog Management System--
 -------------------------------------------------
 -Technology: Html5/Css, Bootstrap, Javascript, NodeJs, Express and MongoDb.
@@ -22,3 +22,17 @@ User Role:  Users can add,view,edit,delete their own blog posts and Images.Users
 -Comments can be added to each BLOG post which can be later view by every registered and non-registered user. Only a registered users can add comment to any post. A registered users can edit his/her own comment.
 -------------------------------------------------
 All Inputs taken from Users are validated
+
+----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Weather App
+
+Single page App . Enter any city name and weather details will be displayed.
+------------------------------------------------
+Details like temperature, humitidy and wind speed.
+------------------------------------------------
+-Technology: Html5/Css, Javascript, NodeJs, Express, Api.
+------------------------------------------------
+Third party Api used- https://api.openweathermap.org
